@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPAC", "SPAC\SPAC.csproj", "{53977ABE-B4C2-490C-9E0B-5C55186F7466}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BE374C98-C3CD-4A90-B892-552914219688} = {BE374C98-C3CD-4A90-B892-552914219688}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightApplication1", "SilverlightApplication1\SilverlightApplication1.csproj", "{BE374C98-C3CD-4A90-B892-552914219688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53977ABE-B4C2-490C-9E0B-5C55186F7466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53977ABE-B4C2-490C-9E0B-5C55186F7466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53977ABE-B4C2-490C-9E0B-5C55186F7466}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{53977ABE-B4C2-490C-9E0B-5C55186F7466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53977ABE-B4C2-490C-9E0B-5C55186F7466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53977ABE-B4C2-490C-9E0B-5C55186F7466}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BE374C98-C3CD-4A90-B892-552914219688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE374C98-C3CD-4A90-B892-552914219688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE374C98-C3CD-4A90-B892-552914219688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE374C98-C3CD-4A90-B892-552914219688}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

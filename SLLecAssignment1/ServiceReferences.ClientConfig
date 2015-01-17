@@ -1,0 +1,17 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="UserProfileServiceSoap" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://dms/_vti_bin/userprofileservice.asmx"
+                binding="basicHttpBinding" bindingConfiguration="UserProfileServiceSoap"
+                contract="TQFUserProfileService.UserProfileServiceSoap" name="UserProfileServiceSoap" />
+        </client>
+    </system.serviceModel>
+</configuration>

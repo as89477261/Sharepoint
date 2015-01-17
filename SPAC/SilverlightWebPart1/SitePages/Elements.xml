@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="SitePages">
+    <File Path="SitePages\SilverlightApplication1WebPartPage.aspx" Url="SitePages/SilverlightApplication1WebPartPage.aspx" Type="GhostableInLibrary"/>
+  </Module>
+</Elements>

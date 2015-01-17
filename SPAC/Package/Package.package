@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="69ef27c0-c331-40b3-8016-a367ae5523a3" solutionId="69ef27c0-c331-40b3-8016-a367ae5523a3" resetWebServer="false" name="SPAC" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="aed3c906-3eb1-402e-bcfe-a3d9349a95e3" />
+    <featureReference itemId="0d08eaeb-488f-4cfd-a708-ca5027dd2d70" />
+  </features>
+</package>

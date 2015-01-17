@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="MicrosoftSilverlightWebPart" DefaultFile="Elements.xml" SupportedTrustLevels="Sandboxed" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="SilverlightWebPart1\" Type="ElementManifest" />
+    <ProjectItemFile Source="SilverlightApplication1WebPart.webpart" Target="SilverlightWebPart1\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

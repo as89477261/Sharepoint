@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="SilverlightApplication1" Url="_catalogs/masterpage/ClientBin/$SharePoint.Package.Name$">
+    <File Path="SilverlightApplication1\SilverlightApplication1.xap" Url="SilverlightApplication1.xap" />
+  </Module>
+</Elements>
+

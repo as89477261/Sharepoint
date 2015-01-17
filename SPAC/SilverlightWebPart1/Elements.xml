@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="SilverlightSilverlightApplication1WebPart" List="113" Url="_catalogs/wp">
+    <File Path="SilverlightWebPart1\SilverlightApplication1WebPart.webpart" Url="SilverlightApplication1WebPart.webpart" Type="GhostableInLibrary">
+      <Property Name="Group" Value="Custom" />
+    </File>
+  </Module>
+</Elements>
